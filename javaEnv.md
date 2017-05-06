@@ -1,4 +1,5 @@
-##linux java环境安装
+linux java环境安装
+===
 
 * 从官网下载jdk压缩包
 * 解压到合适的目录，这里是/usr/local
